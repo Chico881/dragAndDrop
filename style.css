@@ -4,6 +4,9 @@ body {
 .cols {
     display: flex;
 }
+h1 {
+    color:white;
+    background-color: black;
 .dragCon .skull .dropCon {
     float: left;
 }
