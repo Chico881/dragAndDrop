@@ -4,7 +4,7 @@ body {
 .cols {
     display: flex;
 }
-h1 {
+h6 {
     color:white;
     background-color: black;
 }
